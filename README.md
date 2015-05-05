@@ -4,12 +4,12 @@ battleships
 
 ### _classes_
 
-> board - creates an instance of a board - empty
+> **board** - creates an instance of a board - empty
 
 
 ### _methods_
 
-> place_ship - places a ship at a location on the board.
+> **place_ship** - places a ship at a location on the board.
 
 
 
